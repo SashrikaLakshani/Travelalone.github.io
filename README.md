@@ -5,7 +5,7 @@
 </head>
 
 <body>
-<h1>Galadari Hotel</h1>
+<h1 img src="C:\Users\User1\Desktop\web assignment\galadari logo.png">Galadari Hotel</h1>
 
   <select name="menu" id="menu">
     <option value="home">home</option>
