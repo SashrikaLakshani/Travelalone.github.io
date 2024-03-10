@@ -5,7 +5,7 @@
 </head>
 
 <body>
-<img src="galadari logo.jpeg">
+<img src="galadari logo.png">
   <h1>Galadari Hotel</h1>
 
   <select name="menu" id="menu">
