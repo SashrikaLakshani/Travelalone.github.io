@@ -6,7 +6,7 @@
 
 <body>
 <h1>Galadari Hotel</h1>
- <label for="menu">home</label>
+ <label for="menu"></label>
   <select name="menu" id="menu">
     <option value="home">home</option>
     <option value="locations">locations</option>
