@@ -10,11 +10,11 @@
         } 
   
         #box{
-        width:600px;
+        width:1200px;
         background-color:rgb(255, 266,156);
         margin:50px;
         border:50px hidden;
-        pading:15px;
+        pading:50px;
         }
          
     </style>
