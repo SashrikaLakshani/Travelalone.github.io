@@ -5,8 +5,8 @@
   <style> 
         .images{ 
             display: flex;  
-            margin:50px; 
-            padding: 30px; 
+            margin:500px; 
+            padding: 50px; 
         } 
   
         #box{
