@@ -5,7 +5,7 @@
   <style> 
         .images{ 
             display: flex;  
-            margin: 0 50px; 
+            margin:50px; 
             padding: 30px; 
         } 
   
