@@ -5,14 +5,15 @@
   <style> 
         .images{ 
             display: flex;  
-            margin:500px; 
+            margin:50px; 
             padding: 50px; 
         } 
   
         #box{
-        width:300px;
+        width:600px;
         background-color:rgb(255, 266,156);
-        margin:15px;
+        margin:50px;
+        border:50px hidden;
         pading:15px;
         }
          
