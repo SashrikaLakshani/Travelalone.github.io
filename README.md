@@ -39,7 +39,7 @@
 
             <img src="photos/insidegaladari1.png"> 
  
-            <img src="photos/galadari3.png"> 
+            <img src="photos/outsidegaladari3.png"> 
 </div>
     
 </body>
