@@ -9,16 +9,12 @@
             padding: 30px; 
         } 
   
-        .photo { 
-            max-width: 31.333%; 
-            padding: 0 10px; 
-            height: 240px; 
-        } 
-  
-        .photo img { 
-            width: 100%; 
-            height: 100%; 
-        } 
+        .box{
+        width:300px;
+        background-color:rgb(255, 266,156);
+        margin:15px;
+        }
+         
     </style>
 </head>
 
@@ -41,9 +37,10 @@
  
             <img src="photos/outsidegaladari3.png"> 
 </div>
-
+<div calss="box">
 <h2 style="text-align:center; color:rgb(255 183 0)"> Galadari Hotel Colombo</h2>
-    
+<p style="text-align:center; color:black">
+</div>   
 </body>
   
 </html>
