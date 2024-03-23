@@ -10,7 +10,7 @@
         } 
   
         #box{
-        width:1000px;
+        width:800px;
         background-color:rgb(255, 266,156);
         margin:50px;
         border:50px hidden;
