@@ -3,7 +3,7 @@
 <head>
   <title></title>
   <style> 
-        .images { 
+        .images{ 
             display: flex; 
             flex-wrap: wrap; 
             margin: 0 50px; 
@@ -34,7 +34,7 @@
     <option value="events">events</option>
      <option value="offers">offers</option>
   </select>
- <div class="images"> 
+ <div> 
         <div class="photo"> 
             <img src="galadari.png" alt="photo" /> 
         </div> 
