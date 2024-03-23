@@ -31,14 +31,14 @@
      <option value="offers">offers</option>
   </select>
  
-<div id="images">        
+<div class="images">        
             <img src="photos/galadari.png" > 
 
             <img src="photos/insidegaladari1.png"> 
  
             <img src="photos/outsidegaladari3.png"> 
 </div>
-<div calss="box">
+<div id="box">
 <h2 style="text-align:center; color:rgb(255 183 0)"> Galadari Hotel Colombo</h2>
 <p style="text-align:center; color:black">Welcome to Galadari Hotel, your luxurious oasis in the heart of Colombo, Sri Lanka. With stunning views of the Indian Ocean and unmatched hospitality, we offer a truly unforgettable experience. Explore our elegant accommodations, world-class dining options, and exceptional service, and discover why Galadari Hotel is the perfect choice for your next getaway or event.</p>
 </div>   
