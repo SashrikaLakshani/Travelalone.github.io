@@ -24,7 +24,7 @@
 </head>
 
 <body>
-<img src="galadari logo.jpg">
+<img src="galadari logo.png">
   <h1>Galadari Hotel</h1>
 
   <select name="menu" id="menu">
@@ -36,15 +36,15 @@
   </select>
  <div class="images"> 
         <div class="photo"> 
-            <img src="galadari.jpg" alt="photo" /> 
+            <img src="galadari.png" alt="photo" /> 
         </div> 
   
         <div class="photo"> 
-            <img src="galadari 1.jpg" alt="photo" /> 
+            <img src="galadari 1.png" alt="photo" /> 
         </div> 
           
         <div class="photo"> 
-            <img src="galadari 3.jpg" alt="photo" /> 
+            <img src="galadari 3.png" alt="photo" /> 
         </div> 
     </div> 
 </body>
