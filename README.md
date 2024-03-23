@@ -24,7 +24,7 @@
 </head>
 
 <body>
-<img src="galadari logo.">
+<img src="galadari logo.jpg">
   <h1>Galadari Hotel</h1>
 
   <select name="menu" id="menu">
