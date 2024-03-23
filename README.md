@@ -4,8 +4,7 @@
   <title></title>
   <style> 
         .images{ 
-            display: flex; 
-            flex-wrap: wrap; 
+            display: flex;  
             margin: 0 50px; 
             padding: 30px; 
         } 
@@ -36,15 +35,15 @@
   </select>
  <div> 
         <div class="photo"> 
-            <img src="galadari.png" alt="photo" /> 
+            <img src="galadari.png" > 
         </div> 
   
         <div class="photo"> 
-            <img src="galadari 1.png" alt="photo" /> 
+            <img src="galadari 1.png"> 
         </div> 
           
         <div class="photo"> 
-            <img src="galadari3.png" alt="photo" /> 
+            <img src="galadari3.png"> 
         </div> 
     </div> 
 </body>
