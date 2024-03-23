@@ -33,7 +33,7 @@
     <option value="events">events</option>
      <option value="offers">offers</option>
   </select>
- <div> 
+ 
         <div class="photo"> 
             <img src="photos/galadari.png" > 
         </div> 
@@ -45,7 +45,7 @@
         <div class="photo"> 
             <img src="photos/galadari3.png"> 
         </div> 
-    </div> 
+    
 </body>
   
 </html>
