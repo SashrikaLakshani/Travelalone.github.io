@@ -9,10 +9,11 @@
             padding: 30px; 
         } 
   
-        .box{
+        #box{
         width:300px;
         background-color:rgb(255, 266,156);
         margin:15px;
+        pading:15px;
         }
          
     </style>
@@ -30,7 +31,7 @@
      <option value="offers">offers</option>
   </select>
  
-<div class="images">        
+<div id="images">        
             <img src="photos/galadari.png" > 
 
             <img src="photos/insidegaladari1.png"> 
