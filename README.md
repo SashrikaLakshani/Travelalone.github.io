@@ -34,17 +34,13 @@
      <option value="offers">offers</option>
   </select>
  
-        <div class="photo"> 
+<div class="images">        
             <img src="photos/galadari.png" > 
-        </div> 
-  
-        <div > 
+
             <img src="photos/galadari1.png"> 
-        </div> 
-          
-        <div class="photo"> 
+ 
             <img src="photos/galadari3.png"> 
-        </div> 
+</div>
     
 </body>
   
