@@ -38,7 +38,7 @@
             <img src="photos/galadari.png" > 
         </div> 
   
-        <div class="photo"> 
+        <div > 
             <img src="photos/galadari1.png"> 
         </div> 
           
