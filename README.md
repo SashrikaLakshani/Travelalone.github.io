@@ -43,6 +43,14 @@
 <h2 style="text-align:center; color:rgb(255 183 0)"> Galadari Hotel Colombo</h2>
 <p style="text-align:center; color:black">Welcome to Galadari Hotel, your luxurious oasis in the heart of Colombo, Sri Lanka. With stunning views of the Indian Ocean and unmatched hospitality, we offer a truly unforgettable experience. Explore our elegant accommodations, world-class dining options, and exceptional service, and discover why Galadari Hotel is the perfect choice for your next getaway or event.</p>
 </div>   
+
+<table boder="2">
+<tr>
+  <td> Facebook</td>
+  <td><a href="https://web.facebook.com/GaladariHotel/">click here</td>
+</tr>
+</table>
+
 </body>
   
 </html>
