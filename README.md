@@ -44,7 +44,7 @@
         </div> 
           
         <div class="photo"> 
-            <img src="galadari 3.png" alt="photo" /> 
+            <img src="galadari3.png" alt="photo" /> 
         </div> 
     </div> 
 </body>
