@@ -64,7 +64,7 @@ info@galadarihotel.lk</td>
 </tr>
      <tr>
   <td>More details</td>
-  <td>galadarihotel.lk</td>
+  <td><a href="galadarihotel.lk">galadarihotel.lk</a></td>
 </tr>
 </table>
 
