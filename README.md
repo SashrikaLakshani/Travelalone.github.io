@@ -35,15 +35,15 @@
   </select>
  <div> 
         <div class="photo"> 
-            <img src="galadari.png" > 
+            <img src="photos/galadari.png" > 
         </div> 
   
         <div class="photo"> 
-            <img src="galadari 1.png"> 
+            <img src="photos/galadari 1.png"> 
         </div> 
           
         <div class="photo"> 
-            <img src="galadari3.png"> 
+            <img src="photos/galadari3.png"> 
         </div> 
     </div> 
 </body>
