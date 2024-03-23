@@ -10,7 +10,7 @@
         } 
   
         #box{
-        width:800px;
+        width:900px;
         background-color:rgb(255, 266,156);
         margin:50px;
         border:50px hidden;
@@ -47,7 +47,7 @@
 <table boder="2">
 <tr>
   <td> Facebook</td>
-  <td><a href="https://web.facebook.com/GaladariHotel/">click here</td>
+  <td><a href="https://web.facebook.com/GaladariHotel/">click here</a></td>
 </tr>
 </table>
 
