@@ -10,7 +10,7 @@
         } 
   
         #box{
-        width:900px;
+        width:1000px;
         background-color:rgb(255, 266,156);
         margin:50px;
         border:50px hidden;
@@ -50,24 +50,21 @@
   <td><a href="https://web.facebook.com/GaladariHotel/">click here</a></td>
 </tr>
   <tr>
-  <td> adress</td>
-  <td>64, Lotus Road, Colombo, Sri Lanka</td>
-</tr>
-  <tr>
   <td> Address</td>
   <td>64, Lotus Road, Colombo, Sri Lanka</td>
 </tr>
    <tr>
   <td> Telephone no.</td>
   <td>0112 544 544</td>
-</tr>
-   <tr>
-  <td>More details</td>
-  <td>galadarihotel.lk</td>
-</tr>
+   </tr>
     <tr>
   <td>Email</td>
-  <td></td>
+  <td>
+info@galadarihotel.lk</td>
+</tr>
+     <tr>
+  <td>More details</td>
+  <td>galadarihotel.lk</td>
 </tr>
 </table>
 
