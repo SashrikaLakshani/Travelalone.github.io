@@ -41,6 +41,8 @@
  
             <img src="photos/outsidegaladari3.png"> 
 </div>
+
+<h2 style="text-align:center; color:rgb(255 183 0)"> Galadari Hotel Colombo</h2>
     
 </body>
   
