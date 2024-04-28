@@ -26,7 +26,7 @@
 
   <select name="menu" id="menu">
     <option value="home">home</option>
-    <option value="locations">locations</option>
+    <option value="locations">locations<a href="https://sashrikalakshani.github.io/Travelalone.github.io/#location-of-the-hotel"></a></option>
     <option value="rooms">rooms</option>
     <option value="events">events</option>
      <option value="offers">offers</option>
