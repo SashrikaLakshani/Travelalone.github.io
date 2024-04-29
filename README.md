@@ -84,6 +84,7 @@ info@galadarihotel.lk</td>
 <lable for="room">what kind of room you hope to book : </lable>
 <input type="text" id="room" name="room" placeholder="room"><br><br>
   <input type="submit" value="submit">
+</form>
 </body>
   
 </html>
