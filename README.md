@@ -11,7 +11,7 @@
   
         #box{
         width:1000px;
-        background-color:rgb(255, 266,156);
+        background-color:blue;
         margin:50px;
         border:50px hidden;
         padding:50px;
