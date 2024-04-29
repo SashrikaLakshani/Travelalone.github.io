@@ -56,10 +56,10 @@
   <div class="menu">
     <ul>
     <li><a href="#">home</a></li>
-    <li><a href="#">locations</a>
-    <li><a href="#">rooms</a>
-    <li><a href="#">events</a>
-    <li><a href="#">offers</a>
+    <li><a href="#">locations</a></li>
+    <li><a href="#">rooms</a></li>
+    <li><a href="#">events</a></li>
+    <li><a href="#">offers</a></li>
   </ul>
   </div>
 <div class="images">        
