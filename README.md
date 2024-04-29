@@ -12,7 +12,7 @@
         #box{
         width:1000px;
         background-color:rgb(255, 266,156);
-        margin:50px;
+        margin:0px;
         border:50px hidden;
         padding:50px;
         }
