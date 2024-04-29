@@ -31,7 +31,7 @@
     <option value="events">events</option>
      <option value="offers">offers</option>
   </select>
- <h3>hotel location</h3><br><a href="https://sashrikalakshani.github.io/Travelalone.github.io/#location-of-the-hotel"></a>
+ 
 <div class="images">        
             <img src="photos/galadari.png" > 
 
