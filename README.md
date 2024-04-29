@@ -72,8 +72,18 @@ info@galadarihotel.lk</td>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.6558514409458!2d79.84045207373279!3d6.9316735182881235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae259251b57a431%3A0x8f44e226d6d20a7e!2sThe%20Galadari%20Hotel!5e0!3m2!1sen!2slk!4v1714291186180!5m2!1sen!2slk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <h2>make your reservation</h2><br>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScjXGQ2sznoxRieX2EhATLTMY-aZGLPba0VK-Faj_V5O6XtKA/viewform?embedded=true" width="640" height="1257" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
+<form action=""/action-page.php" target="-blank">
+<lable for="name">Name with initials : </lable>
+<input type="text" id="name" name="name" placeholder="name">
+<lable for="email">Email : </lable>
+<input type="text" id="email" name="email" placeholder="email">
+<lable for="address">Address : </lable>
+<input type="text" id="name" name="address" placeholder="address">
+<lable for="phone-no">Phone Number : </lable>
+<input type="text" id="name" name="phone-no" placeholder="phone-no">
+<lable for="room">what kind of room you hope to book : </lable>
+<input type="text" id="room" name="room" placeholder="room">
+  <input type="submit" value="submit">
 </body>
   
 </html>
