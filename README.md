@@ -6,7 +6,7 @@
         .images{ 
             display: flex;  
             margin:0px; 
-            padding: 50px; 
+            padding: 0px; 
         } 
   
         #box{
