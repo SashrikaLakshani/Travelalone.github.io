@@ -62,7 +62,7 @@
     <li><a href="#">offers</a></li>
   </ul>
 
-/*images collection*/
+
   </div>
 <div class="images">        
             <img src="photos/galadari.png" > 
