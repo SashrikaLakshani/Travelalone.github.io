@@ -107,6 +107,7 @@ info@galadarihotel.lk</td>
 <h2>Location of the hotel</h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.6558514409458!2d79.84045207373279!3d6.9316735182881235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae259251b57a431%3A0x8f44e226d6d20a7e!2sThe%20Galadari%20Hotel!5e0!3m2!1sen!2slk!4v1714291186180!5m2!1sen!2slk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+<div id="box">
 <h2>make your reservation</h2><br>
 <form action="/action_page.php" target="_blank">
 <lable for="name">Name with initials : </lable>
@@ -121,6 +122,8 @@ info@galadarihotel.lk</td>
 <input type="text" id="room" name="room" placeholder="room"><br><br>
   <input type="submit" value="submit">
 </form>
+</div>
+  
 </body>
   
 </html>
