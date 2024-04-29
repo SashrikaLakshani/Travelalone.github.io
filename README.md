@@ -18,7 +18,7 @@
         }
 
         .menu{
-        width:400px;
+        width:1000px;
         float:left;
         height:70px;
         }
@@ -32,7 +32,7 @@
         ul li{
         list-style:none;
         margin-left:62px;
-        margin-top:27px;
+        
         font-size:14px;
         }
         ul li a{
