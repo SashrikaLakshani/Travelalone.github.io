@@ -120,7 +120,7 @@ info@galadarihotel.lk</td>
 <input type="text" id="name" name="phone-no" placeholder="phone-no"><br><br>
 <lable for="room">what kind of room you hope to book : </lable>
 <input type="text" id="room" name="room" placeholder="room"><br><br>
-  <input type="submit" value="submit">
+  <input type="submit" value="submit" style="background-color:orange;">
 </form>
 </div>
   
