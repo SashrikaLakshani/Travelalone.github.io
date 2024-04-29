@@ -16,6 +16,35 @@
         border:50px hidden;
         padding:50px;
         }
+
+        .menu{
+        width:400px;
+        float:left;
+        height:70px;
+        }
+
+        .ul{
+        float:left;
+        display:flex;
+        justify-content:center;
+        align-item:center;
+        }
+        ul li{
+        list-style:none;
+        margin-left:62px;
+        margin-top:27px;
+        font-size:14px;
+        }
+        ul li a{
+        text-decoration:none;
+        color:black;
+        font-family:arial;
+        font-weight:bold;
+        transition:0.4s ease-in-out;
+        }
+        ul li a:hover{
+        color: yellow;
+        }
          
     </style>
 </head>
@@ -24,14 +53,15 @@
 <img src="galadari logo.png">
   <h1><b>Galadari Hotel</b></h1>
 
-  <select name="menu" id="menu">
-    <option value="home">home</option>
-    <option value="locations">locations</option>
-    <option value="rooms">rooms</option>
-    <option value="events">events</option>
-     <option value="offers">offers</option>
-  </select>
- 
+  <div class="menu">
+    <ul>
+    <li><a href="#">home</a></li>
+    <li><a href="#">locations</a>
+    <li><a href="#">rooms</a>
+    <li><a href="#">events</a>
+    <li><a href="#">offers</a>
+  </ul>
+  </div>
 <div class="images">        
             <img src="photos/galadari.png" > 
 
