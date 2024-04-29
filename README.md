@@ -23,7 +23,7 @@
         height:70px;
         }
 
-        .ul{
+        ul{
         float:left;
         display:flex;
         justify-content:center;
