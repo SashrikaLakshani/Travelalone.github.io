@@ -74,15 +74,15 @@ info@galadarihotel.lk</td>
 <h2>make your reservation</h2><br>
 <form action=""/action-page.php" target="-blank">
 <lable for="name">Name with initials : </lable>
-<input type="text" id="name" name="name" placeholder="name">
+<input type="text" id="name" name="name" placeholder="name"><br>
 <lable for="email">Email : </lable>
-<input type="text" id="email" name="email" placeholder="email">
+<input type="text" id="email" name="email" placeholder="email"><br>
 <lable for="address">Address : </lable>
-<input type="text" id="name" name="address" placeholder="address">
+<input type="text" id="name" name="address" placeholder="address"><br>
 <lable for="phone-no">Phone Number : </lable>
-<input type="text" id="name" name="phone-no" placeholder="phone-no">
+<input type="text" id="name" name="phone-no" placeholder="phone-no"><br>
 <lable for="room">what kind of room you hope to book : </lable>
-<input type="text" id="room" name="room" placeholder="room">
+<input type="text" id="room" name="room" placeholder="room"><br>
   <input type="submit" value="submit">
 </body>
   
